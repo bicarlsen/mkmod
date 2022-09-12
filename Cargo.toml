@@ -7,6 +7,9 @@ authors = [ "Brian Carlsen <carlsen.bri@gmail.com>" ]
 description = "CLI for adding modules to Rust projects."
 license = 'GPL-3.0'
 
+repository = "https://github.com/bicarlsen/mkmod"
+categories = [ "development-tools" ]
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
