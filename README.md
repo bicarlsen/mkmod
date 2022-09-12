@@ -13,7 +13,7 @@ partent module.
 ### Cargo (recommended)
 > This requires [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) to be installed.
 
-Run `cargo install mkmod` from your terminal.
+Run `cargo +nightly install mkmod` from your terminal.
 
 ### Manual
 Download the `mkmod` executable from the desired release and add it to your path.
